@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.toshare.top/</id>
+    <title>mmmax</title>
+    <updated>2021-12-04T03:05:01.925Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.toshare.top/"/>
+    <link rel="self" href="https://blog.toshare.top/atom.xml"/>
+    <subtitle>Struggle</subtitle>
+    <logo>https://blog.toshare.top/images/avatar.png</logo>
+    <icon>https://blog.toshare.top/favicon.ico</icon>
+    <rights>All rights reserved 2021, mmmax</rights>
+    <entry>
+        <title type="html"><![CDATA[嗨]]></title>
+        <id>https://blog.toshare.top/post/hai/</id>
+        <link href="https://blog.toshare.top/post/hai/">
+        </link>
+        <updated>2020-12-15T12:58:13.000Z</updated>
+        <content type="html"><![CDATA[<p>😋</p>
+]]></content>
+    </entry>
+</feed>
